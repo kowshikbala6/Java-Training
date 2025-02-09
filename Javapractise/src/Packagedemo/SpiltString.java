@@ -29,7 +29,7 @@ System.out.println(number);
             if (!set.contains(c)) {
                 set.add(c);
                 sb.append(c);
-               // System.out.println(sb);
+               System.out.println(sb);
             }//System.out.println(sb);
       }
             return sb.toString();
